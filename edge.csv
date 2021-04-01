@@ -1,0 +1,16 @@
+from;to;weight
+HP;Ron;3
+HP;Hermine;3
+HP;Hagrid;3
+HP;Dumbledore;2
+HP;Snape;1
+HP;Voldemort;1
+HP;Malfoy;1
+Ron;Hermine;3
+Ron;Hagrid;3
+Ron;Malfoy;1
+Hermine ;Hagrid;3
+Hermine ;Malfoy;1
+Hagrid;Dumbledore;3
+Dumbledore;Snape;3
+Snape;Voldemort;3
